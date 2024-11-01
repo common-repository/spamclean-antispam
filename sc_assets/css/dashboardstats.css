@@ -1,0 +1,55 @@
+
+.inside code {
+    background-color: transparent;
+}
+table.sc-striped-table {
+    width: 100%;
+    max-width: 100%;
+    border-collapse: collapse;
+}
+table.sc-striped-table th,
+table.sc-striped-table td {
+    text-align: left;
+    padding: 6px 4px;
+    border: 1px solid #cccccc;
+}
+table.sc-striped-table thead th,
+table.sc-striped-table thead td {
+    background-color: #222;
+    color: #FFFFFF;
+    font-weight: bold;
+    border-color: #474747;
+}
+table.sc-striped-table tbody tr.even td {
+    background-color: #eeeeee;
+}
+.loginFailValidUsername {
+    color: #00c000;
+    font-weight: bold;
+}
+.loginFailInvalidUsername {
+    color: #e74a2a;
+    font-weight: bold;
+}
+.display-file-table-cell {
+    overflow: hidden;
+}
+.display-file {
+    margin: 0px;
+    display: block;
+    font-size: 12px;
+    width: 100%;
+    overflow: auto;
+    white-space: nowrap;
+}
+.recently-modified-files {
+    table-layout: fixed;
+}
+.recently-modified-files th:nth-child(1),
+.recently-modified-files td:nth-child(1) {
+    width: 30%;
+}
+.recently-modified-files th:nth-child(2),
+.recently-modified-files td:nth-child(2) {
+    width: 70%;
+}

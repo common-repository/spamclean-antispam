@@ -1,0 +1,1031 @@
+/*!
+ * Generated with CSS Flag Sprite generator (https://www.spamcleanflag-sprites.com/)
+ */
+
+.spamcleanflag {
+    display: inline-block;
+    width: 16px;
+    height: 11px;
+    background: url('spamclean_flags.png') no-repeat;
+}
+
+
+.spamcleanflag.spamcleanflag-ma {
+    background-position: -64px -88px;
+}
+
+.spamcleanflag.spamcleanflag-vi {
+    background-position: -112px -154px;
+}
+
+.spamcleanflag.spamcleanflag-bo {
+    background-position: -160px -11px;
+}
+
+.spamcleanflag.spamcleanflag-gr {
+    background-position: -48px -55px;
+}
+
+.spamcleanflag.spamcleanflag-ne {
+    background-position: -176px -99px;
+}
+
+.spamcleanflag.spamcleanflag-gl {
+    background-position: -240px -44px;
+}
+
+.spamcleanflag.spamcleanflag-um {
+    background-position: -256px -143px;
+}
+
+.spamcleanflag.spamcleanflag-ae {
+    background-position: -16px 0;
+}
+
+.spamcleanflag.spamcleanflag-ng {
+    background-position: -208px -99px;
+}
+
+.spamcleanflag.spamcleanflag-nl {
+    background-position: -240px -99px;
+}
+
+.spamcleanflag.spamcleanflag-gp {
+    background-position: -16px -55px;
+}
+
+.spamcleanflag.spamcleanflag-fk {
+    background-position: -32px -44px;
+}
+
+.spamcleanflag.spamcleanflag-dj {
+    background-position: -48px -33px;
+}
+
+.spamcleanflag.spamcleanflag-gt {
+    background-position: -80px -55px;
+}
+
+.spamcleanflag.spamcleanflag-pw {
+    background-position: 0 -121px;
+}
+
+.spamcleanflag.spamcleanflag-np {
+    background-position: 0 -110px;
+}
+
+.spamcleanflag.spamcleanflag-cf {
+    background-position: -64px -22px;
+}
+
+.spamcleanflag.spamcleanflag-pn {
+    background-position: -208px -110px;
+}
+
+.spamcleanflag.spamcleanflag-an {
+    background-position: -112px 0;
+}
+
+.spamcleanflag.spamcleanflag-dm {
+    background-position: -80px -33px;
+}
+
+.spamcleanflag.spamcleanflag-cw {
+    background-position: -256px -22px;
+}
+
+.spamcleanflag.spamcleanflag-pf {
+    background-position: -112px -110px;
+}
+
+.spamcleanflag.spamcleanflag-mo {
+    background-position: -224px -88px;
+}
+
+.spamcleanflag.spamcleanflag-az {
+    background-position: -240px 0;
+}
+
+.spamcleanflag.spamcleanflag-tj {
+    background-position: -48px -143px;
+}
+
+.spamcleanflag.spamcleanflag-nz {
+    background-position: -48px -110px;
+}
+
+.spamcleanflag.spamcleanflag-ec {
+    background-position: -128px -33px;
+}
+
+.spamcleanflag.spamcleanflag-al {
+    background-position: -80px 0;
+}
+
+.spamcleanflag.spamcleanflag-jo {
+    background-position: -208px -66px;
+}
+
+.spamcleanflag.spamcleanflag-dk {
+    background-position: -64px -33px;
+}
+
+.spamcleanflag.spamcleanflag-aw {
+    background-position: -208px 0;
+}
+
+.spamcleanflag.spamcleanflag-es {
+    background-position: -224px -33px;
+}
+
+.spamcleanflag.spamcleanflag-eg {
+    background-position: -160px -33px;
+}
+
+.spamcleanflag.spamcleanflag-sz {
+    background-position: -208px -132px;
+}
+
+.spamcleanflag.spamcleanflag-do {
+    background-position: -96px -33px;
+}
+
+.spamcleanflag.spamcleanflag-fj {
+    background-position: -16px -44px;
+}
+
+.spamcleanflag.spamcleanflag-km {
+    background-position: -32px -77px;
+}
+
+.spamcleanflag.spamcleanflag-yt {
+    background-position: -240px -154px;
+}
+
+.spamcleanflag.spamcleanflag-bb {
+    background-position: 0 -11px;
+}
+
+.spamcleanflag.spamcleanflag-lu {
+    background-position: -16px -88px;
+}
+
+.spamcleanflag.spamcleanflag-gn {
+    background-position: 0 -55px;
+}
+
+.spamcleanflag.spamcleanflag-kw {
+    background-position: -112px -77px;
+}
+
+.spamcleanflag.spamcleanflag-kr {
+    background-position: -80px -77px;
+}
+
+.spamcleanflag.spamcleanflag-sm {
+    background-position: -48px -132px;
+}
+
+.spamcleanflag.spamcleanflag-ml {
+    background-position: -176px -88px;
+}
+
+.spamcleanflag.spamcleanflag-ga {
+    background-position: -96px -44px;
+}
+
+.spamcleanflag.spamcleanflag-ve {
+    background-position: -80px -154px;
+}
+
+.spamcleanflag.spamcleanflag-ru {
+    background-position: -96px -121px;
+}
+
+.spamcleanflag.spamcleanflag-la {
+    background-position: -160px -77px;
+}
+
+.spamcleanflag.spamcleanflag-jm {
+    background-position: -192px -66px;
+}
+
+.spamcleanflag.spamcleanflag-lc {
+    background-position: -192px -77px;
+}
+
+.spamcleanflag.spamcleanflag-tk {
+    background-position: -64px -143px;
+}
+
+.spamcleanflag.spamcleanflag-ws {
+    background-position: -192px -154px;
+}
+
+.spamcleanflag.spamcleanflag-sh {
+    background-position: -240px -121px;
+}
+
+.spamcleanflag.spamcleanflag-am {
+    background-position: -96px 0;
+}
+
+.spamcleanflag.spamcleanflag-sl {
+    background-position: -32px -132px;
+}
+
+.spamcleanflag.spamcleanflag-me {
+    background-position: -112px -88px;
+}
+
+.spamcleanflag.spamcleanflag-ir {
+    background-position: -112px -66px;
+}
+
+.spamcleanflag.spamcleanflag-mg {
+    background-position: -128px -88px;
+}
+
+.spamcleanflag.spamcleanflag-sr {
+    background-position: -112px -132px;
+}
+
+.spamcleanflag.spamcleanflag-ms {
+    background-position: -16px -99px;
+}
+
+.spamcleanflag.spamcleanflag-rs {
+    background-position: -80px -121px;
+}
+
+.spamcleanflag.spamcleanflag-gi {
+    background-position: -224px -44px;
+}
+
+.spamcleanflag.spamcleanflag-bh {
+    background-position: -80px -11px;
+}
+
+.spamcleanflag.spamcleanflag-sj {
+    background-position: 0 -132px;
+}
+
+.spamcleanflag.spamcleanflag-il {
+    background-position: -16px -66px;
+}
+
+.spamcleanflag.spamcleanflag-hr {
+    background-position: -192px -55px;
+}
+
+.spamcleanflag.spamcleanflag-bg {
+    background-position: -64px -11px;
+}
+
+.spamcleanflag.spamcleanflag-mv {
+    background-position: -64px -99px;
+}
+
+.spamcleanflag.spamcleanflag-bm {
+    background-position: -128px -11px;
+}
+
+.spamcleanflag.spamcleanflag-bi {
+    background-position: -96px -11px;
+}
+
+.spamcleanflag.spamcleanflag-om {
+    background-position: -64px -110px;
+}
+
+.spamcleanflag.spamcleanflag-ky {
+    background-position: -128px -77px;
+}
+
+.spamcleanflag.spamcleanflag-py {
+    background-position: -16px -121px;
+}
+
+.spamcleanflag.spamcleanflag-kp {
+    background-position: -64px -77px;
+}
+
+.spamcleanflag.spamcleanflag-gh {
+    background-position: -208px -44px;
+}
+
+.spamcleanflag.spamcleanflag-lv {
+    background-position: -32px -88px;
+}
+
+.spamcleanflag.spamcleanflag-im {
+    background-position: -48px -66px;
+}
+
+.spamcleanflag.spamcleanflag-dz {
+    background-position: -112px -33px;
+}
+
+.spamcleanflag.spamcleanflag-br {
+    background-position: -176px -11px;
+}
+
+.spamcleanflag.spamcleanflag-sc {
+    background-position: -160px -121px;
+}
+
+.spamcleanflag.spamcleanflag-zanzibar {
+    background-position: 0 -165px;
+}
+
+.spamcleanflag.spamcleanflag-tt {
+    background-position: -160px -143px;
+}
+
+.spamcleanflag.spamcleanflag-it {
+    background-position: -144px -66px;
+}
+
+.spamcleanflag.spamcleanflag-cr {
+    background-position: -208px -22px;
+}
+
+.spamcleanflag.spamcleanflag-ni {
+    background-position: -224px -99px;
+}
+
+.spamcleanflag.spamcleanflag-at {
+    background-position: -176px 0;
+}
+
+.spamcleanflag.spamcleanflag-tw {
+    background-position: -192px -143px;
+}
+
+.spamcleanflag.spamcleanflag-uz {
+    background-position: -32px -154px;
+}
+
+.spamcleanflag.spamcleanflag-gg {
+    background-position: -192px -44px;
+}
+
+.spamcleanflag.spamcleanflag-cy {
+    background-position: 0 -33px;
+}
+
+.spamcleanflag.spamcleanflag-de {
+    background-position: -32px -33px;
+}
+
+.spamcleanflag.spamcleanflag-tl {
+    background-position: -80px -143px;
+}
+
+.spamcleanflag.spamcleanflag-th {
+    background-position: -16px -143px;
+}
+
+.spamcleanflag.spamcleanflag-eu {
+    background-position: -256px -33px;
+}
+
+.spamcleanflag.spamcleanflag-pm {
+    background-position: -192px -110px;
+}
+
+.spamcleanflag.spamcleanflag-id {
+    background-position: -256px -55px;
+}
+
+.spamcleanflag.spamcleanflag-hm {
+    background-position: -160px -55px;
+}
+
+.spamcleanflag.spamcleanflag-nc {
+    background-position: -160px -99px;
+}
+
+.spamcleanflag.spamcleanflag-sx {
+    background-position: -176px -132px;
+}
+
+.spamcleanflag.spamcleanflag-lt {
+    background-position: 0 -88px;
+}
+
+.spamcleanflag.spamcleanflag-ca {
+    background-position: -16px -22px;
+}
+
+.spamcleanflag.spamcleanflag-in {
+    background-position: -64px -66px;
+}
+
+.spamcleanflag.spamcleanflag-tr {
+    background-position: -144px -143px;
+}
+
+.spamcleanflag.spamcleanflag-ss {
+    background-position: -128px -132px;
+}
+
+.spamcleanflag.spamcleanflag-cv {
+    background-position: -240px -22px;
+}
+
+.spamcleanflag.spamcleanflag-be {
+    background-position: -32px -11px;
+}
+
+.spamcleanflag.spamcleanflag-ad {
+    background-position: 0 0;
+}
+
+.spamcleanflag.spamcleanflag-cz {
+    background-position: -16px -33px;
+}
+
+.spamcleanflag.spamcleanflag-mk {
+    background-position: -160px -88px;
+}
+
+.spamcleanflag.spamcleanflag-vn {
+    background-position: -128px -154px;
+}
+
+.spamcleanflag.spamcleanflag-sb {
+    background-position: -144px -121px;
+}
+
+.spamcleanflag.spamcleanflag-tf {
+    background-position: -256px -132px;
+}
+
+.spamcleanflag.spamcleanflag-za {
+    background-position: -256px -154px;
+}
+
+.spamcleanflag.spamcleanflag-li {
+    background-position: -208px -77px;
+}
+
+.spamcleanflag.spamcleanflag-bz {
+    background-position: 0 -22px;
+}
+
+.spamcleanflag.spamcleanflag-sn {
+    background-position: -64px -132px;
+}
+
+.spamcleanflag.spamcleanflag-tz {
+    background-position: -208px -143px;
+}
+
+.spamcleanflag.spamcleanflag-bf {
+    background-position: -48px -11px;
+}
+
+.spamcleanflag.spamcleanflag-nr {
+    background-position: -16px -110px;
+}
+
+.spamcleanflag.spamcleanflag-pt {
+    background-position: -256px -110px;
+}
+
+.spamcleanflag.spamcleanflag-se {
+    background-position: -208px -121px;
+}
+
+.spamcleanflag.spamcleanflag-pk {
+    background-position: -160px -110px;
+}
+
+.spamcleanflag.spamcleanflag-gu {
+    background-position: -96px -55px;
+}
+
+.spamcleanflag.spamcleanflag-tn {
+    background-position: -112px -143px;
+}
+
+.spamcleanflag.spamcleanflag-gf {
+    background-position: -160px -44px;
+}
+
+.spamcleanflag.spamcleanflag-fm {
+    background-position: -48px -44px;
+}
+
+.spamcleanflag.spamcleanflag-no {
+    background-position: -256px -99px;
+}
+
+.spamcleanflag.spamcleanflag-ps {
+    background-position: -240px -110px;
+}
+
+.spamcleanflag.spamcleanflag-ck {
+    background-position: -128px -22px;
+}
+
+.spamcleanflag.spamcleanflag-tv {
+    background-position: -176px -143px;
+}
+
+.spamcleanflag.spamcleanflag-gw {
+    background-position: -112px -55px;
+}
+
+.spamcleanflag.spamcleanflag-wales {
+    background-position: -160px -154px;
+}
+
+.spamcleanflag.spamcleanflag-mh {
+    background-position: -144px -88px;
+}
+
+.spamcleanflag.spamcleanflag-nu {
+    background-position: -32px -110px;
+}
+
+.spamcleanflag.spamcleanflag-sg {
+    background-position: -224px -121px;
+}
+
+.spamcleanflag.spamcleanflag-tg {
+    background-position: 0 -143px;
+}
+
+.spamcleanflag.spamcleanflag-catalonia {
+    background-position: -32px -22px;
+}
+
+.spamcleanflag.spamcleanflag-vc {
+    background-position: -64px -154px;
+}
+
+.spamcleanflag.spamcleanflag-ee {
+    background-position: -144px -33px;
+}
+
+.spamcleanflag.spamcleanflag-eh {
+    background-position: -176px -33px;
+}
+
+.spamcleanflag.spamcleanflag-tm {
+    background-position: -96px -143px;
+}
+
+.spamcleanflag.spamcleanflag-ar {
+    background-position: -144px 0;
+}
+
+.spamcleanflag.spamcleanflag-td {
+    background-position: -240px -132px;
+}
+
+.spamcleanflag.spamcleanflag-bv {
+    background-position: -224px -11px;
+}
+
+.spamcleanflag.spamcleanflag-na {
+    background-position: -144px -99px;
+}
+
+.spamcleanflag.spamcleanflag-england {
+    background-position: -192px -33px;
+}
+
+.spamcleanflag.spamcleanflag-et {
+    background-position: -240px -33px;
+}
+
+.spamcleanflag.spamcleanflag-us {
+    background-position: 0 -154px;
+}
+
+.spamcleanflag.spamcleanflag-md {
+    background-position: -96px -88px;
+}
+
+.spamcleanflag.spamcleanflag-rw {
+    background-position: -112px -121px;
+}
+
+.spamcleanflag.spamcleanflag-kh {
+    background-position: 0 -77px;
+}
+
+.spamcleanflag.spamcleanflag-sk {
+    background-position: -16px -132px;
+}
+
+.spamcleanflag.spamcleanflag-cu {
+    background-position: -224px -22px;
+}
+
+.spamcleanflag.spamcleanflag-ge {
+    background-position: -144px -44px;
+}
+
+.spamcleanflag.spamcleanflag-gy {
+    background-position: -128px -55px;
+}
+
+.spamcleanflag.spamcleanflag-re {
+    background-position: -48px -121px;
+}
+
+.spamcleanflag.spamcleanflag-ua {
+    background-position: -224px -143px;
+}
+
+.spamcleanflag.spamcleanflag-ht {
+    background-position: -208px -55px;
+}
+
+.spamcleanflag.spamcleanflag-ch {
+    background-position: -96px -22px;
+}
+
+.spamcleanflag.spamcleanflag-lr {
+    background-position: -240px -77px;
+}
+
+.spamcleanflag.spamcleanflag-xk {
+    background-position: -208px -154px;
+}
+
+.spamcleanflag.spamcleanflag-pr {
+    background-position: -224px -110px;
+}
+
+.spamcleanflag.spamcleanflag-gb {
+    background-position: -112px -44px;
+}
+
+.spamcleanflag.spamcleanflag-bt {
+    background-position: -208px -11px;
+}
+
+.spamcleanflag.spamcleanflag-gs {
+    background-position: -64px -55px;
+}
+
+.spamcleanflag.spamcleanflag-ci {
+    background-position: -112px -22px;
+}
+
+.spamcleanflag.spamcleanflag-sd {
+    background-position: -192px -121px;
+}
+
+.spamcleanflag.spamcleanflag-by {
+    background-position: -256px -11px;
+}
+
+.spamcleanflag.spamcleanflag-ye {
+    background-position: -224px -154px;
+}
+
+.spamcleanflag.spamcleanflag-nf {
+    background-position: -192px -99px;
+}
+
+.spamcleanflag.spamcleanflag-zm {
+    background-position: -16px -165px;
+}
+
+.spamcleanflag.spamcleanflag-gm {
+    background-position: -256px -44px;
+}
+
+.spamcleanflag.spamcleanflag-ly {
+    background-position: -48px -88px;
+}
+
+.spamcleanflag.spamcleanflag-cl {
+    background-position: -144px -22px;
+}
+
+.spamcleanflag.spamcleanflag-vu {
+    background-position: -144px -154px;
+}
+
+.spamcleanflag.spamcleanflag-pl {
+    background-position: -176px -110px;
+}
+
+.spamcleanflag.spamcleanflag-er {
+    background-position: -208px -33px;
+}
+
+.spamcleanflag.spamcleanflag-wf {
+    background-position: -176px -154px;
+}
+
+.spamcleanflag.spamcleanflag-au {
+    background-position: -192px 0;
+}
+
+.spamcleanflag.spamcleanflag-kg {
+    background-position: -256px -66px;
+}
+
+.spamcleanflag.spamcleanflag-co {
+    background-position: -192px -22px;
+}
+
+.spamcleanflag.spamcleanflag-mp {
+    background-position: -240px -88px;
+}
+
+.spamcleanflag.spamcleanflag-lb {
+    background-position: -176px -77px;
+}
+
+.spamcleanflag.spamcleanflag-my {
+    background-position: -112px -99px;
+}
+
+.spamcleanflag.spamcleanflag-jp {
+    background-position: -224px -66px;
+}
+
+.spamcleanflag.spamcleanflag-sa {
+    background-position: -128px -121px;
+}
+
+.spamcleanflag.spamcleanflag-ba {
+    background-position: -256px 0;
+}
+
+.spamcleanflag.spamcleanflag-so {
+    background-position: -80px -132px;
+}
+
+.spamcleanflag.spamcleanflag-fi {
+    background-position: 0 -44px;
+}
+
+.spamcleanflag.spamcleanflag-kurdistan {
+    background-position: -96px -77px;
+}
+
+.spamcleanflag.spamcleanflag-ag {
+    background-position: -48px 0;
+}
+
+.spamcleanflag.spamcleanflag-mu {
+    background-position: -48px -99px;
+}
+
+.spamcleanflag.spamcleanflag-mz {
+    background-position: -128px -99px;
+}
+
+.spamcleanflag.spamcleanflag-mc {
+    background-position: -80px -88px;
+}
+
+.spamcleanflag.spamcleanflag-ug {
+    background-position: -240px -143px;
+}
+
+.spamcleanflag.spamcleanflag-mn {
+    background-position: -208px -88px;
+}
+
+.spamcleanflag.spamcleanflag-pa {
+    background-position: -80px -110px;
+}
+
+.spamcleanflag.spamcleanflag-pe {
+    background-position: -96px -110px;
+}
+
+.spamcleanflag.spamcleanflag-va {
+    background-position: -48px -154px;
+}
+
+.spamcleanflag.spamcleanflag-to {
+    background-position: -128px -143px;
+}
+
+.spamcleanflag.spamcleanflag-mq {
+    background-position: -256px -88px;
+}
+
+.spamcleanflag.spamcleanflag-vg {
+    background-position: -96px -154px;
+}
+
+.spamcleanflag.spamcleanflag-ie {
+    background-position: 0 -66px;
+}
+
+.spamcleanflag.spamcleanflag-je {
+    background-position: -176px -66px;
+}
+
+.spamcleanflag.spamcleanflag-mx {
+    background-position: -96px -99px;
+}
+
+.spamcleanflag.spamcleanflag-hu {
+    background-position: -224px -55px;
+}
+
+.spamcleanflag.spamcleanflag-bj {
+    background-position: -112px -11px;
+}
+
+.spamcleanflag.spamcleanflag-gq {
+    background-position: -32px -55px;
+}
+
+.spamcleanflag.spamcleanflag-cg {
+    background-position: -80px -22px;
+}
+
+.spamcleanflag.spamcleanflag-cm {
+    background-position: -160px -22px;
+}
+
+.spamcleanflag.spamcleanflag-fo {
+    background-position: -64px -44px;
+}
+
+.spamcleanflag.spamcleanflag-qa {
+    background-position: -32px -121px;
+}
+
+.spamcleanflag.spamcleanflag-sy {
+    background-position: -192px -132px;
+}
+
+.spamcleanflag.spamcleanflag-ic {
+    background-position: -240px -55px;
+}
+
+.spamcleanflag.spamcleanflag-mw {
+    background-position: -80px -99px;
+}
+
+.spamcleanflag.spamcleanflag-ro {
+    background-position: -64px -121px;
+}
+
+.spamcleanflag.spamcleanflag-gd {
+    background-position: -128px -44px;
+}
+
+.spamcleanflag.spamcleanflag-ph {
+    background-position: -144px -110px;
+}
+
+.spamcleanflag.spamcleanflag-fr {
+    background-position: -80px -44px;
+}
+
+.spamcleanflag.spamcleanflag-si {
+    background-position: -256px -121px;
+}
+
+.spamcleanflag.spamcleanflag-mr {
+    background-position: 0 -99px;
+}
+
+.spamcleanflag.spamcleanflag-kz {
+    background-position: -144px -77px;
+}
+
+.spamcleanflag.spamcleanflag-hk {
+    background-position: -144px -55px;
+}
+
+.spamcleanflag.spamcleanflag-mm {
+    background-position: -192px -88px;
+}
+
+.spamcleanflag.spamcleanflag-zw {
+    background-position: -32px -165px;
+}
+
+.spamcleanflag.spamcleanflag-pg {
+    background-position: -128px -110px;
+}
+
+.spamcleanflag.spamcleanflag-hn {
+    background-position: -176px -55px;
+}
+
+.spamcleanflag.spamcleanflag-ai {
+    background-position: -64px 0;
+}
+
+.spamcleanflag.spamcleanflag-somaliland {
+    background-position: -96px -132px;
+}
+
+.spamcleanflag.spamcleanflag-sv {
+    background-position: -160px -132px;
+}
+
+.spamcleanflag.spamcleanflag-bd {
+    background-position: -16px -11px;
+}
+
+.spamcleanflag.spamcleanflag-as {
+    background-position: -160px 0;
+}
+
+.spamcleanflag.spamcleanflag-bn {
+    background-position: -144px -11px;
+}
+
+.spamcleanflag.spamcleanflag-ki {
+    background-position: -16px -77px;
+}
+
+.spamcleanflag.spamcleanflag-tibet {
+    background-position: -32px -143px;
+}
+
+.spamcleanflag.spamcleanflag-cd {
+    background-position: -48px -22px;
+}
+
+.spamcleanflag.spamcleanflag-io {
+    background-position: -80px -66px;
+}
+
+.spamcleanflag.spamcleanflag-ax {
+    background-position: -224px 0;
+}
+
+.spamcleanflag.spamcleanflag-is {
+    background-position: -128px -66px;
+}
+
+.spamcleanflag.spamcleanflag-st {
+    background-position: -144px -132px;
+}
+
+.spamcleanflag.spamcleanflag-bs {
+    background-position: -192px -11px;
+}
+
+.spamcleanflag.spamcleanflag-iq {
+    background-position: -96px -66px;
+}
+
+.spamcleanflag.spamcleanflag-ls {
+    background-position: -256px -77px;
+}
+
+.spamcleanflag.spamcleanflag-mt {
+    background-position: -32px -99px;
+}
+
+.spamcleanflag.spamcleanflag-ke {
+    background-position: -240px -66px;
+}
+
+.spamcleanflag.spamcleanflag-ao {
+    background-position: -128px 0;
+}
+
+.spamcleanflag.spamcleanflag-uy {
+    background-position: -16px -154px;
+}
+
+.spamcleanflag.spamcleanflag-lk {
+    background-position: -224px -77px;
+}
+
+.spamcleanflag.spamcleanflag-scotland {
+    background-position: -176px -121px;
+}
+
+.spamcleanflag.spamcleanflag-af {
+    background-position: -32px 0;
+}
+
+.spamcleanflag.spamcleanflag-cn {
+    background-position: -176px -22px;
+}
+
+.spamcleanflag.spamcleanflag-bw {
+    background-position: -240px -11px;
+}
+
+.spamcleanflag.spamcleanflag-tc {
+    background-position: -224px -132px;
+}
+
+.spamcleanflag.spamcleanflag-kn {
+    background-position: -48px -77px;
+}
